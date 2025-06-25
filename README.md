@@ -1,1 +1,1 @@
-# forex_news_bot
+# forex-news-bot
